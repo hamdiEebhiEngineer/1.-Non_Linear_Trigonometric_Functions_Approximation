@@ -1,0 +1,10 @@
+# Common Python files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter Notebook specific files (optional, but good if you have a lot of them)
+.ipynb_checkpoints
